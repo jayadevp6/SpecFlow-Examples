@@ -17,3 +17,5 @@ phases:
       - ls
       - cd ASP.NET-MVC/
       - cd BookShop/
+      - dotnet build
+      - dotnet test
