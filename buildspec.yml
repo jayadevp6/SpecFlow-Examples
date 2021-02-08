@@ -19,5 +19,3 @@ phases:
       - cd BookShop/
       - dotnet build
       - dotnet test BookShop.AcceptanceTests
-   artifacts:
-    files: */*
