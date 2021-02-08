@@ -14,6 +14,6 @@ phases:
    build:
     commands:
       - echo Build started on `date`
-      - cd /SpecFlow-Examples/ASP.NET-MVC/BookShop/
+      - ls /SpecFlow-Examples/ASP.NET-MVC/BookShop/
       - dotnet build
       - dotnet test
