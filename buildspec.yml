@@ -20,4 +20,4 @@ phases:
       - dotnet build
       - dotnet test BookShop.AcceptanceTests
    artifacts:
-    files: *
+    files: */*
