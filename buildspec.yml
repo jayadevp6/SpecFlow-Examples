@@ -15,3 +15,5 @@ phases:
     commands:
       - echo Build started on `date`
       - ls
+      - cd ASP.NET-MVC/
+      - cd BookShop/
