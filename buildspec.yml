@@ -18,4 +18,4 @@ phases:
       - cd ASP.NET-MVC/
       - cd BookShop/
       - dotnet build
-      - dotnet test
+      - dotnet test BookShop.AcceptanceTests
