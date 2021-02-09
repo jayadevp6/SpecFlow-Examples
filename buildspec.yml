@@ -35,6 +35,8 @@ phases:
     commands:
          - echo Build started on `date`
          - ls
+         - cd ASP.NET-MVC
+         - cd BookShop
          - dotnet test
          - livingdoc SpecFlow.json
          
