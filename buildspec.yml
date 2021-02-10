@@ -35,7 +35,6 @@ phases:
     commands:
          - echo Build started on `date`
          - ls
-         - cd SpecFlow-Examples
          - cd BowlingKata
          - cd BowlingKata-Nunit
          - dotnet build
